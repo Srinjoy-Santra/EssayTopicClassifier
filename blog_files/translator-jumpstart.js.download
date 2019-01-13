@@ -1,8 +1,0 @@
-(function($){$(function(){if(!$('#translator-launcher').length||typeof communityTranslator!=='object'){return false;}
-function loadTranslator(){$('#translator-launcher .text').addClass('enabled').removeClass('disabled');if(communityTranslator.load()!==false){autoloadTranslator(true);}}
-function unloadTranslator(){$('#translator-launcher .text').removeClass('enabled').addClass('disabled');communityTranslator.unload();autoloadTranslator(false);}
-$(document.body).on('click','#translator-launcher',function(){if($('#translator-launcher .text').hasClass('disabled')){loadTranslator();}else{unloadTranslator();}
-return false;});runWhenTranslatorIsLoaded(function(){$('#translator-launcher').show();if(shouldAutoloadTranslator()){loadTranslator();}});function runWhenTranslatorIsLoaded(callback){if('undefined'===typeof window.translatorJumpstart){setTimeout(function(){runWhenTranslatorIsLoaded(callback);},100);return;}
-callback();}
-function autoloadTranslator(enable){if(enable){document.cookie='ct_en=1;path=/;domain=.wordpress.com';}else{document.cookie='ct_en=;expires=Sat,%201%20Jan%202000%2000:00:00%20GMT;path=/;domain=.wordpress.com';}}
-function shouldAutoloadTranslator(enable){return!!document.cookie.match(/ct_en=1/);}});})(jQuery);
