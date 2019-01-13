@@ -1,0 +1,1749 @@
+
+<!doctype html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--[if lt IE 7]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en"><![endif]-->
+<!--[if IE 7]><html class="no-js ie lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if IE 8]><html class="no-js ie lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]-->
+	<head>
+		
+<title>Introduction to the GRE Issue Task (For Test Takers)</title>
+		<meta charset="utf-8" />
+		<meta http-equiv="x-ua-compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<meta name="description" content="This page contains the Issue topics for the Analytical Writing section of the GRE revised General Test. When you take the test, you will be presented with one Issue topic from this pool." />
+		<meta name="keywords" content="gre pool of issue topics,gre analytical writing,gre analytical writing issue task,gre issue task,gre issue topic pool,prepare for gre analytical writing,gre analytical writing test prep" />
+
+		<link rel="stylesheet" type="text/css" href="/rsc/css/ets-base.css" />
+		<link rel="stylesheet" type="text/css" href="/rsc/css/jquery-ui.min.css" />
+
+		
+			
+	</head>
+	
+	
+
+
+
+	
+	<body class="ets-org init  gre">
+<!--stopindex-->
+
+		<div role="navigation" id="access-links">
+			<a href="#main">skip to contents</a>
+			<a href="#mm">skip to navigation</a>
+			<a href="#search-trigger">skip to search</a>
+			<a href="#footer">skip to footer</a>
+		</div>
+		
+		<div id="ie-warn"></div><!-- /ie-warn -->
+
+		<svg display="none" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<defs>
+				<symbol id="icon-angle-up" viewBox="0 0 658 1024">
+					<title>angle-up</title>
+					<path class="path1" d="M614.286 676.571q0 7.429-5.714 13.143l-28.571 28.571q-5.714 5.714-13.143 5.714t-13.143-5.714l-224.571-224.571-224.571 224.571q-5.714 5.714-13.143 5.714t-13.143-5.714l-28.571-28.571q-5.714-5.714-5.714-13.143t5.714-13.143l266.286-266.286q5.714-5.714 13.143-5.714t13.143 5.714l266.286 266.286q5.714 5.714 5.714 13.143z"></path>
+				</symbol>
+				<symbol id="icon-angle-right" viewBox="0 0 366 1024">
+					<title>angle-right</title>
+					<path class="path1" d="M340 548.571q0 7.429-5.714 13.143l-266.286 266.286q-5.714 5.714-13.143 5.714t-13.143-5.714l-28.571-28.571q-5.714-5.714-5.714-13.143t5.714-13.143l224.571-224.571-224.571-224.571q-5.714-5.714-5.714-13.143t5.714-13.143l28.571-28.571q5.714-5.714 13.143-5.714t13.143 5.714l266.286 266.286q5.714 5.714 5.714 13.143z"></path>
+				</symbol>
+				<symbol id="icon-angle-down" viewBox="0 0 658 1024">
+					<title>angle-down</title>
+					<path class="path1" d="M614.286 420.571q0 7.429-5.714 13.143l-266.286 266.286q-5.714 5.714-13.143 5.714t-13.143-5.714l-266.286-266.286q-5.714-5.714-5.714-13.143t5.714-13.143l28.571-28.571q5.714-5.714 13.143-5.714t13.143 5.714l224.571 224.571 224.571-224.571q5.714-5.714 13.143-5.714t13.143 5.714l28.571 28.571q5.714 5.714 5.714 13.143z"></path>
+				</symbol>
+				<symbol id="icon-angle-left" viewBox="0 0 366 1024">
+					<title>angle-left</title>
+					<path class="path1" d="M358.286 310.857q0 7.429-5.714 13.143l-224.571 224.571 224.571 224.571q5.714 5.714 5.714 13.143t-5.714 13.143l-28.571 28.571q-5.714 5.714-13.143 5.714t-13.143-5.714l-266.286-266.286q-5.714-5.714-5.714-13.143t5.714-13.143l266.286-266.286q5.714-5.714 13.143-5.714t13.143 5.714l28.571 28.571q5.714 5.714 5.714 13.143z"></path>
+				</symbol>
+				<symbol id="icon-close" viewBox="0 0 40 35">
+					<title>close</title>
+					<path class="ets-svg" d="M32.2246094,31.3613281c-1.0078125,1.0078125-2.640625,1.0078125-3.6464844,0L6.6879883,9.4741211 c-1.0078125-1.0083008-1.0078125-2.6411133,0-3.6489258l0,0c1.0078125-1.0083008,2.6411133-1.0083008,3.6479492,0 l21.8886719,21.8876953C33.2324219,28.7207031,33.2324219,30.3535156,32.2246094,31.3613281L32.2246094,31.3613281z"/>
+					<path class="ets-svg" d="M32.2246094,5.8251953c1.0078125,1.0078125,1.0078125,2.640625,0,3.6489258l-21.8886719,21.887207 c-1.0078125,1.0078125-2.6411133,1.0078125-3.6479492,0l0,0c-1.0078125-1.0078125-1.0078125-2.640625,0-3.6484375 L28.5771484,5.8251953C29.5839844,4.815918,31.2167969,4.815918,32.2246094,5.8251953L32.2246094,5.8251953z"/>
+				</symbol>
+				<symbol id="icon-user" viewBox="0 0 40 35">
+					<title>user</title>
+					<path class="ets-svg" d="M19.8041992,2c3.5874023,0,6.4956055,2.9082031,6.4956055,6.4960938 c0,3.5874023-2.9082031,6.4960938-6.4956055,6.4960938c-3.5878906,0-6.4960938-2.9086914-6.4960938-6.4960938 C13.3081055,4.9082031,16.2163086,2,19.8041992,2z M33.8046875,34c0.1269531-1,0.2089844-1.7695312,0.2089844-2.6015625 c0-8.0722656-6.2714844-14.6992188-14.0068359-14.6992188C12.2719727,16.6992188,6,23.3671875,6,31.4394531 C6,32.2714844,6.0820312,33,6.2089844,34H33.8046875z"/>
+				</symbol>
+				<symbol id="icon-menu-open" viewBox="0 0 17 17">
+					<title>menu open</title>
+					<path class="ets-svg" d="M14.3330078,0H2.6669922C1.1962891,0,0,1.1962891,0,2.6665039v11.6674805 C0,15.8037109,1.1962891,17,2.6669922,17h11.6660156C15.8046875,17,17,15.8037109,17,14.3339844V2.6665039 C17,1.1962891,15.8046875,0,14.3330078,0z M16,14.4003906C16,15.2832031,15.2832031,16,14.3994141,16H2.6005859 C1.7167969,16,1,15.2832031,1,14.4003906V2.5996094C1,1.7163086,1.7167969,1,2.6005859,1h11.7988281 C15.2832031,1,16,1.7163086,16,2.5996094V14.4003906z"/>
+					<rect x="4" y="8" class="ets-svg" width="9" height="1.0537109"/>
+				</symbol>
+				<symbol id="icon-menu-closed" viewBox="0 0 17 17">
+					<title>menu closed</title>
+					<path class="ets-svg" d="M14.3330078,0H2.6669922C1.1962891,0,0,1.1962891,0,2.6665039v11.6674805 C0,15.8037109,1.1962891,17,2.6669922,17h11.6660156C15.8046875,17,17,15.8037109,17,14.3339844V2.6665039 C17,1.1962891,15.8046875,0,14.3330078,0z M16,14.4003906C16,15.2832031,15.2832031,16,14.3994141,16H2.6005859 C1.7167969,16,1,15.2832031,1,14.4003906V2.5996094C1,1.7163086,1.7167969,1,2.6005859,1h11.7988281 C15.2832031,1,16,1.7163086,16,2.5996094V14.4003906z"/>
+					<polygon class="ets-svg" points="9,4 8,4 8,8 4,8 4,9 8,9 8,13 9,13 9,9 13,9 13,8 9,8 	"/>
+				</symbol>
+				<symbol id="icon-search" viewBox="0 0 40 35">
+					<title>search</title>
+					<path class="ets-svg" d="M35.01,31.758l-12.02-12.02c1.36-1.948,2.164-4.312,2.164-6.863c0-6.633-5.396-12.03-12.03-12.03 c-6.633,0-12.029,5.396-12.029,12.03c0,6.633,5.396,12.029,12.029,12.029c2.625,0,5.049-0.854,7.029-2.287l11.999,11.998 L35.01,31.758z M13.125,3.515c5.162,0,9.362,4.199,9.362,9.36c0,5.162-4.2,9.361-9.362,9.361c-5.161,0-9.36-4.199-9.36-9.361 C3.765,7.714,7.963,3.515,13.125,3.515z"/>
+				</symbol>
+				<symbol id="icon-language" viewBox="0 0 40 35">
+					<title>globe</title>
+					<path class="ets-svg" d="M18.877,34.501c-9.392,0-17.032-7.641-17.032-17.034c0-9.393,7.641-17.033,17.032-17.033 c9.392,0,17.033,7.641,17.033,17.033C35.91,26.86,28.27,34.501,18.877,34.501z M18.878,2.081c-8.484,0-15.387,6.902-15.387,15.387 c0,8.484,6.902,15.388,15.387,15.388c8.483,0,15.386-6.904,15.386-15.388C34.264,8.983,27.361,2.081,18.878,2.081z M12.729,11.732 c-0.044-0.025-0.385-0.02-0.436-0.038c-0.05-0.018-0.198-0.16-0.198-0.16s-0.349-0.13-0.6-0.049 c-0.222,0.071-0.118,0.373-0.066,0.451c0.053,0.079,0.591,0.309,0.732,0.309c0.141,0,0.626,0.013,0.672-0.017 c0.022-0.015,0.194-0.145,0.161-0.27S12.75,11.745,12.729,11.732z M21.057,5.804c-0.095-0.018-0.521,0.403-0.44,0.596 c0.08,0.191,0.854,0.672,0.991,0.682c0.523,0.042,0.726-0.188,0.809-0.379c0.083-0.193,0.019-0.597-0.102-0.68 C22.195,5.94,21.15,5.823,21.057,5.804z M30.077,21.908c-0.195,0.234-0.496,0.814-0.552,1.117c-0.057,0.303,0.207,0.881,0.068,1.102 c-0.138,0.223-0.684,0.443-0.732,0.539c-0.047,0.098,0.008,0.725,0.07,0.932c0.029,0.1,0.53,0.309,1.041,0.496 c-2.574,3.307-6.58,5.441-11.095,5.441c-7.769,0-14.067-6.299-14.067-14.068c0-1.968,0.408-3.841,1.138-5.541 c0.179,0.561,0.406,1.155,0.627,1.376c0.178,0.179,0.477,0.192,0.731,0.192c0.216,0,0.882,0.69,0.979,1.091 c0.097,0.399,0.015,1.246,0.166,1.447c0.247,0.331,1.158,0.876,1.158,1.187v2.138c0,0.705,1.642,1.924,1.642,1.924 s0.882,0.488,1.006,0.822c0.125,0.33,0.002,1.955,0.18,2.385c0.177,0.43,0.579,0.883,0.579,1.213c0,0.332,0.028,0.65,0.028,1.408 c0,0.756,1.053,2.184,1.199,2.273s0.917,0.096,1.179,0c0.262-0.098,0.163-0.717,0.155-0.848c-0.008-0.129-0.523-0.438-0.61-0.58 c-0.087-0.141-0.166-0.713-0.166-1.074s1.131-0.268,1.414-0.506c0.517-0.434,0.664-0.945,1.007-1.131 c0.523-0.271,0.812-0.299,0.979-0.799c0.166-0.496-0.199-0.887,0.014-1.354c0.164-0.354,0.5-0.863,0.827-1.072 c0.623-0.402,1.359-0.43,1.822-1.242c0.46-0.814,0.724-1.49,0.619-1.986c-0.104-0.496-0.323-1.295-0.883-1.295 c-0.238,0-0.931,0.05-1.254-0.123c-0.181-0.099-0.536-0.89-0.705-1.009c-0.593-0.414-2.234-0.068-2.8-0.345 c-0.199-0.097-0.469-1.407-1.124-1.716c-0.135-0.064-1.228-0.083-1.634-0.048c-0.274,0.022-0.71,0.646-1.131,0.703 c-0.421,0.056-1.283,0.233-1.517-0.126c-0.215-0.327-0.73-1.281-0.849-1.625c-0.118-0.347-0.626-0.787-0.875-0.884 c-0.249-0.097-0.553-0.359-0.553-0.69c0-0.427,0.011-0.972,0.011-0.972s0.651-0.875,1.121-0.916 c0.468-0.042,0.744,0.371,0.965,0.371c0.221,0,0.898,0.029,1.117-0.164c0.22-0.194,0.568-0.513,0.814-0.787 c0.245-0.272-0.012-0.802,0.468-1.09c0.48-0.286,1.234,0.3,1.917-0.178c0.276-0.193,0.441-0.925,0.606-1.048 c0.166-0.125,1.402-0.112,1.863-0.112c0.46,0,0.44-0.329,0.44-0.606c0-0.277-0.635-0.6-1.917-0.579c-0.45,0.007-1.742,0.065-2.013,0 c-0.138-0.033-0.387-0.438-0.6-0.831c0.523-0.244,1.058-0.463,1.614-0.643c0.312,0.346,0.663,0.711,0.765,0.729 c0.384,0.07,0.747-0.167,0.869-0.276c0.059-0.052,0.003-0.458-0.067-0.86c0.716-0.141,1.455-0.216,2.207-0.245 c-0.083,0.378-0.157,0.786-0.126,0.934c0.063,0.302,0.303,0.502,0.758,0.53c0.469,0.029,0.766,0.014,0.883-0.138 s0.018-0.449,0.274-0.593c0.193-0.107,0.669,0.08,0.896,0.007c0.096-0.03,0.24-0.264,0.384-0.526 c1.278,0.233,2.491,0.642,3.626,1.195c0.014,0.295,0.025,0.608,0.033,0.868c0.007,0.392-0.703,0.911-0.76,1.366 C24.28,7.3,24.249,7.62,24.365,7.964c0.096,0.29,0.924,0.288,1.13,0.25c0.221-0.042,0.633-0.018,0.688-0.333 c0.057-0.313-0.088-0.651,0.016-0.924c0.103-0.273,0.564-0.18,0.951-0.165c0.388,0.016,0.178,0.579,0.703,0.718 c0.076,0.02,0.354,0.031,0.552,0c0.054-0.008,0.196-0.018,0.377-0.025c0.747,0.742,1.403,1.575,1.972,2.47 c-0.753-0.222-1.59-0.431-2.061-0.431c-0.992,0-3.752,0.483-3.752,1.641c0,0.482,0.006,0.89,0.045,1.233 c0.086,0.701,1.281,1.263,1.488,1.593c0.207,0.33,0.262,1.654,0.496,1.974c0.233,0.317,1.186,0.263,1.322,0.166 c0.139-0.101,0.455-0.595,0.689-0.663c0.234-0.069,0.974-0.148,1.173-0.11c0.331,0.061,0.602,0.153,0.661,0.759 c0.11,1.103-0.164,1.033-0.562,1.308c-0.236,0.161-0.095,1.071-0.043,1.188c0.124,0.275,1.326,0.652,1.364,0.965 c0.041,0.314-0.009,1.596-0.206,1.793C31.176,21.57,30.387,21.535,30.077,21.908z"/>
+				</symbol>
+				<symbol id="icon-bars" viewBox="0 0.394 40 46.8">
+					<title>bars</title>
+					<path class="ets-svg" d="M38.5,7.1235352c0,1.4599609-1.1855469,2.9169922-2.6445312,2.9169922H4.1967773 C2.7358398,10.0405273,1.5,8.5834961,1.5,7.1235352V6.8134766c0-1.4599609,1.2358398-2.7729492,2.6967773-2.7729492h31.6606445 C37.3144531,4.0405273,38.5,5.3535156,38.5,6.8134766V7.1235352z"/>
+					<path class="ets-svg" d="M38.5,18.2011719c0,1.4609375-1.1855469,2.8398438-2.6445312,2.8398438H4.1967773 C2.7358398,21.0410156,1.5,19.6621094,1.5,18.2011719v-0.3095703c0-1.4599609,1.2358398-2.8500977,2.6967773-2.8500977h31.6606445 c1.4570312,0,2.6425781,1.3901367,2.6425781,2.8500977V18.2011719z"/>
+					<path class="ets-svg" d="M38.5,29.3964844c0,1.4589844-1.1855469,2.6445312-2.6445312,2.6445312H4.1967773 C2.7358398,32.0410156,1.5,30.8554688,1.5,29.3964844v-0.3105469c0-1.4589844,1.2358398-3.0449219,2.6967773-3.0449219h31.6606445 c1.4570312,0,2.6425781,1.5859375,2.6425781,3.046875V29.3964844z"/>
+				</symbol>
+				<symbol id="icon-contact" viewBox="0 0 40 35">
+					<title>phone</title>
+					<path class="ets-svg" d="M6.553,10.634C7.214,8.075,8.19,6.146,9.486,4.851l0.496-0.499c0.795-0.793,1.523-1.175,2.185-1.143 c0.66,0.037,1.432,0.493,2.311,1.374c2.498,2.501,2.85,4.649,1.055,6.446l-0.801,0.8c-0.609,0.609-0.958,1.134-1.047,1.569 c-0.088,0.438,0.037,1.046,0.375,1.826c0.586,1.366,1.878,3.051,3.878,5.051c2.025,2.026,3.734,3.321,5.125,3.882 c1.227,0.485,2.312,0.256,3.251-0.684l0.763-0.763c1.836-1.84,4.022-1.492,6.552,1.042c0.855,0.854,1.311,1.602,1.358,2.237 c0.053,0.634-0.283,1.312-1.002,2.034l-0.585,0.586c-1.244,1.246-3.195,2.256-5.854,3.038c-2.04-0.858-4.077-2.008-6.112-3.449 c-2.031-1.442-4.061-3.175-6.085-5.202c-2.051-2.054-3.808-4.108-5.274-6.17C8.608,14.768,7.435,12.702,6.553,10.634z"/>
+				</symbol>
+				<symbol id="icon-store" viewBox="0 0 40 35">
+					<title>store</title>
+					<!-- polyline fill="none" stroke-miterlimit="10" points="1,2.5 6.773,2.5 12.063,30.5 30,30.5"/ -->
+					<polyline                 stroke-miterlimit="10" points="1,2.5 6.773,2.5 12.063,30.5 30,30.5"/><!-- the cart handle -->
+					<polygon points="7.714,7 37.417,7 33.292,20.537 11.021,24.492"/>
+					<circle stroke-width="1.2464" stroke-miterlimit="10" cx="12.199" cy="31.136" r="2.765"/>
+					<circle stroke-width="1.2464" stroke-miterlimit="10" cx="29.026" cy="31.136" r="2.765"/>
+				</symbol>
+			</defs>
+		</svg>
+		
+		
+		<div id="wrap-head">
+			<header>
+
+			<!-- begin top horizontal nav area -->
+				
+
+
+
+
+
+
+
+
+
+
+
+
+				<!-- Logo -->
+
+
+
+
+
+
+
+		
+
+
+<div id="logos"><div id="logo-ets" class="logo"><a href="/"><img src="/rsc/img/logo/ets_logo.svg" alt="ETS" height="46" width="68" /></a></div> <div id="logo-brand" class="logo"><a href="/gre"><img src="/rsc/img/logo/gre.svg" alt="GRE" height="46" /></a></div></div>
+
+
+
+	
+				<nav id="nav-site" role="navigation">	
+				<!-- Top Nav Links -->
+
+
+
+
+
+
+
+		
+
+
+<div class="nav-item"><a href="http://store.digitalriver.com/store/ets/DisplayCategoryProductListPage/categoryID.3551800"><svg class="icon icon-store"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-store"></use></svg><span class="label">Store</span></a></div>
+<div class="nav-item"><a href="/gre/contact/"><svg class="icon icon-contact"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-contact"></use></svg><span class="label">Contact Us</span></a></div>
+
+
+
+				
+	<div id="search" role="search" class="nav-item"><a href="http://search.ets.org" id="search-trigger" class="nav-trigger"> <svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg> <span class="label">Search</span> </a></div>
+<!-- /search -->
+</nav><!-- /nav-site -->			
+				<div id="site-search" class="nav-slider">
+					<form action="http://search.ets.org/query.html" name="site-search-form" id="site-search-form" method="get">
+						<label for="site-search-form-keyword" class="hide">Search:</label>
+						<input type="text" name="qt" id="site-search-form-keyword" value="" placeholder="Search for&hellip;" />
+						<input type="submit" name="site-search-form-go" id="site-search-form-go" value="Go" />
+					</form>
+				</div>
+						
+				<div class="clear"></div>
+				
+				<!-- Audience Links / Section Navigation -->
+
+
+
+
+
+
+
+		
+
+
+<div class="auds" id="auds"><ul> <li class="current"><a class="current-aud">For Test Takers</a></li> <li><a href="/gre/institutions">For Institutions</a></li> </ul> </div>
+<!--end "auds"-->
+
+
+
+			<!-- end top horizontal nav area -->
+			</header>
+		</div>	
+				<!-- begin header area -->
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="wrap-outer"  id="crumbs-and-support">
+			<div id="brand-bar"></div>
+
+<!-- Breadcrumb Trail --><div class="wrap-crumbs">
+
+
+
+
+
+
+
+		
+
+
+<div id="breadcrumbs">
+<div class="wrap-links">
+<a href="/">ETS Home</a>
+<span aria-hidden="true">&gt;</span>
+<a href="/gre/">GRE Home</a>
+<span aria-hidden="true">&gt;</span>
+<a href="/gre/revised_general/">General Test</a>
+<span aria-hidden="true">&gt;</span>
+<a href="/gre/revised_general/prepare/">Prepare for the Test</a>
+<span aria-hidden="true">&gt;</span>
+<a href="/gre/revised_general/prepare/analytical_writing/">Analytical Writing</a>
+<span aria-hidden="true">&gt;</span>
+<a href="/gre/revised_general/prepare/analytical_writing/issue/">Analyze an Issue</a>
+</div>
+</div>
+
+
+</div>
+			<div id="support-links">
+			<!-- Support Links -->
+
+
+
+
+
+
+
+		
+
+
+<div id="my-brand" class="nav-item"><a href="https://mygre.ets.org/greweb/login/login.jsp"> <svg class="icon icon-user"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-user"></use></svg><span class="label">ETS Account</span></a></div> <!--end "support-links"-->
+
+
+		
+			</div>
+		
+		</div><!-- /brand-home-crumbs-and-support -->
+
+		<div class="wrap-outer">
+			<!-- #brand-image, #brand-msg OR slick carousel -->
+			<!-- even if empty, keep the div -->
+			<div id="wrap-hero">
+			<!-- Hero Image -->
+
+
+
+
+
+
+
+		
+
+
+<div id="hero-action"> </div>
+<!--end "hero-call-to-action"-->
+
+
+
+			</div>
+
+			<!-- add this contents.misc here -->
+			<!-- not sure what it will be used for, but they wanted it -->
+			<div class="contents misc">
+				<!-- Misc Content -->
+
+
+
+
+
+
+
+		
+
+
+
+
+
+	
+			</div>
+
+			<div id="wrap-important-updates">
+				<!-- Important Updates -->
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+			</div>
+		</div><!-- /.wrap-outer -->		
+
+			<div class="wrap-outer">
+				<div id="main" role="main" aria-label="main contents">
+				
+					<div class="contents misc">
+						<!-- div to hold channel-wide content -->
+						<!-- ideally, there would also be one of these .contents.misc divs as the first item in .contents.left -->
+					</div>
+
+					<div class="contents heading">
+						
+						<!-- Contents Heading --><h1>
+
+
+
+            Pool of Issue Topics
+
+</h1>
+					</div>
+
+					<div class="clear"></div>
+				
+				<!-- begin page content area -->
+				
+<!-- tmplt ETSorg2015 - PT-13 - Document Details -->
+		<div id="main-contents" class="wrap-flex">
+			
+					<div class="contents left">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <!--startindex--><div class="inline-nav">
+<ul>
+<li class="first"><a href="/gre/revised_general/prepare/analytical_writing/issue">Introduction</a></li>
+<li><a href="/gre/revised_general/prepare/analytical_writing/issue/understand_context">Understanding the Context for Writing</a></li>
+<li><a href="/gre/revised_general/prepare/analytical_writing/issue/prepare_task">Preparing for the Issue Task</a></li>
+<li><a href="/gre/revised_general/prepare/analytical_writing/issue/tips">Tips for this Section</a></li>
+<li><a href="/gre/revised_general/prepare/analytical_writing/issue/sample_task">Sample Issue Task</a></li>
+<li><a href="/gre/revised_general/prepare/analytical_writing/issue/sample_responses">Sample Essay Responses</a></li>
+<li><a nhref="/gre/revised_general/prepare/analytical_writing/issue/pool" class="current-nav">Pool of Issue Topics</a></li>
+<li class="last"><a href="/gre/revised_general/prepare/analytical_writing/issue/scoring_guide">Scoring Guide</a></li>
+</ul>
+</div>
+<p>This page contains the Issue topics for the Analytical Writing section of the <span class="text-italic">GRE</span>&reg; General Test. When you take the test, you will be presented with one Issue topic from this pool.</p>
+<p>Each Issue topic consists of an issue statement or statements followed by specific task instructions that tell you how to respond to the issue. The wording of some topics in the test might vary slightly from what is presented here. Also, because there may be multiple versions of some topics with similar or identical wording but with different task instructions, it is very important to read your test topic and its specific task directions carefully and respond to the wording as it appears in the actual test.</p>
+<div class="divider-50"><hr /></div>
+<p>As people rely more and more on technology to solve problems, the ability of humans to think for themselves will surely deteriorate.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>To understand the most important characteristics of a society, one must study its major cities.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Educational institutions have a responsibility to dissuade students from pursuing fields of study in which they are unlikely to succeed.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Scandals are useful because they focus our attention on problems in ways that no speaker or reformer ever could.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: Governments must ensure that their major cities receive the financial support they need in order to thrive.</p>
+<p>Reason: It is primarily in cities that a nation's cultural traditions are preserved and generated.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>A nation should require all of its students to study the same national curriculum until they enter college.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people believe that government funding of the arts is necessary to ensure that the arts can flourish and be available to all people. Others believe that government funding of the arts threatens the integrity of the arts.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: In any field&mdash;business, politics, education, government&mdash;those in power should step down after five years.</p>
+<p>Reason: The surest path to success for any enterprise is revitalization through new leadership.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>In any field of endeavor, it is impossible to make a significant contribution without first being strongly influenced by past achievements within that field.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Nations should pass laws to preserve any remaining wilderness areas in their natural state, even if these areas could be developed for economic gain.</p>
+<div class="indented">
+<p>Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>People's behavior is largely determined by forces not of their own making.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Governments should offer a free university education to any student who has been admitted to a university but who cannot afford the tuition.</p>
+<div class="indented">
+<p>Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Universities should require every student to take a variety of courses outside the student's field of study.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>A nation should require all of its students to study the same national curriculum until they enter college.</p>
+<div class="indented">
+<p>Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Educational institutions should actively encourage their students to choose fields of study that will prepare them for lucrative careers.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people believe that in order to be effective, political leaders must yield to public opinion and abandon principle for the sake of compromise. Others believe that the most essential quality of an effective leader is the ability to remain consistently committed to particular principles and objectives.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Formal education tends to restrain our minds and spirits rather than set them free.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The well-being of a society is enhanced when many of its people question authority.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Governments should focus on solving the immediate problems of today rather than on trying to solve the anticipated problems of the future.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people believe that college students should consider only their own talents and interests when choosing a field of study. Others believe that college students should base their choice of a field of study on the availability of jobs in that field.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Laws should be flexible enough to take account of various circumstances, times, and places.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: The best way to understand the character of a society is to examine the character of the men and women that the society chooses as its heroes or its role models.</p>
+<p>Reason: Heroes and role models reveal a society's highest ideals.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Governments should place few, if any, restrictions on scientific research and development.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The best way to teach is to praise positive actions and ignore negative ones.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Governments should offer college and university education free of charge to all students.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The luxuries and conveniences of contemporary life prevent people from developing into truly strong and independent individuals.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>In any field of inquiry, the beginner is more likely than the expert to make important contributions.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The surest indicator of a great nation is represented not by the achievements of its rulers, artists, or scientists, but by the general welfare of its people.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The best way to teach&mdash;whether as an educator, employer, or parent&mdash;is to praise positive actions and ignore negative ones.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Teachers' salaries should be based on their students' academic performance.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Society should make efforts to save endangered species only if the potential extinction of those species is the result of human activities.</p>
+<div class="indented">
+<p>Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>College students should base their choice of a field of study on the availability of jobs in that field.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>As we acquire more knowledge, things do not become more comprehensible, but more complex and mysterious.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>In any situation, progress requires discussion among people who have contrasting points of view.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Educational institutions should dissuade students from pursuing fields of study in which they are unlikely to succeed.</p>
+<div class="indented">
+<p>Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Governments should not fund any scientific research whose consequences are unclear.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Society should identify those children who have special talents and provide training for them at an early age to develop their talents.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>It is primarily through our identification with social groups that we define ourselves.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>College students should be encouraged to pursue subjects that interest them rather than the courses that seem most likely to lead to jobs.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: When planning courses, educators should take into account the interests and suggestions of their students.</p>
+<p>Reason: Students are more motivated to learn when they are interested in what they are studying.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The greatness of individuals can be decided only by those who live after them, not by their contemporaries.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Students should always question what they are taught instead of accepting it passively.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The increasingly rapid pace of life today causes more problems than it solves.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: It is no longer possible for a society to regard any living man or woman as a hero.</p>
+<p>Reason: The reputation of anyone who is subjected to media scrutiny will eventually be diminished.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Competition for high grades seriously limits the quality of learning at all levels of education.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Universities should require every student to take a variety of courses outside the student's field of study.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Educators should find out what students want included in the curriculum and then offer it to them.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Educators should teach facts only after their students have studied the ideas, trends, and concepts that help explain those facts.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: We can usually learn much more from people whose views we share than from those whose views contradict our own.</p>
+<p>Reason: Disagreement can cause stress and inhibit learning.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Government officials should rely on their own judgment rather than unquestioningly carry out the will of the people they serve.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Young people should be encouraged to pursue long-term, realistic goals rather than seek immediate fame and recognition.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The best way to teach is to praise positive actions and ignore negative ones.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>If a goal is worthy, then any means taken to attain it are justifiable.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>In order to become well-rounded individuals, all college students should be required to take courses in which they read poetry, novels, mythology, and other types of imaginative literature.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>In order for any work of art&mdash;for example, a film, a novel, a poem, or a song&mdash;to have merit, it must be understandable to most people.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Many important discoveries or creations are accidental: it is usually while seeking the answer to one question that we come across the answer to another.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The main benefit of the study of history is to dispel the illusion that people living now are significantly different from people who lived in earlier times.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Learning is primarily a matter of personal discipline; students cannot be motivated by school or college alone.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Scientists and other researchers should focus their research on areas that are likely to benefit the greatest number of people.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Politicians should pursue common ground and reasonable consensus rather than elusive ideals.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>People should undertake risky action only after they have carefully considered its consequences.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Leaders are created by the demands that are placed on them.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>There is little justification for society to make extraordinary efforts&mdash;especially at a great cost in money and jobs&mdash;to save endangered animal or plant species.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The human mind will always be superior to machines because machines are only tools of human minds.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Every individual in a society has a responsibility to obey just laws and to disobey and resist unjust laws.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>People who are the most deeply committed to an idea or policy are also the most critical of it.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people believe that society should try to save every plant and animal species, despite the expense to humans in effort, time, and financial well-being. Others believe that society need not make extraordinary efforts, especially at a great cost in money and jobs, to save endangered species.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people believe that the purpose of education is to free the mind and the spirit. Others believe that formal education tends to restrain our minds and spirits rather than set them free.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people believe it is often necessary, even desirable, for political leaders to withhold information from the public. Others believe that the public has a right to be fully informed.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: Universities should require every student to take a variety of courses outside the student's major field of study.</p>
+<p>Reason: Acquiring knowledge of various academic disciplines is the best way to become truly educated.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Young people should be encouraged to pursue long-term, realistic goals rather than seek immediate fame and recognition.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Governments should not fund any scientific research whose consequences are unclear.</p>
+<div class="indented">
+<p>Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Colleges and universities should require all faculty to spend time working outside the academic world in professions relevant to the courses they teach.</p>
+<div class="indented">
+<p>Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Knowing about the past cannot help people to make important decisions today.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>In this age of intensive media coverage, it is no longer possible for a society to regard any living man or woman as a hero.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>We can usually learn much more from people whose views we share than from people whose views contradict our own.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The most effective way to understand contemporary culture is to analyze the trends of its youth.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>People's attitudes are determined more by their immediate situation or surroundings than by society as a whole.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: The best test of an argument is its ability to convince someone with an opposing viewpoint.</p>
+<p>Reason: Only by being forced to defend an idea against the doubts and contrasting views of others does one really discover the value of that idea.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Nations should suspend government funding for the arts when significant numbers of their citizens are hungry or unemployed.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>All parents should be required to volunteer time to their children's schools.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Colleges and universities should require their students to spend at least one semester studying in a foreign country.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Teachers' salaries should be based on the academic performance of their students.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>It is no longer possible for a society to regard any living man or woman as a hero.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people believe that in order to thrive, a society must put its own overall success before the well-being of its individual citizens. Others believe that the well-being of a society can only be measured by the general welfare of all its people.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people believe that government officials must carry out the will of the people they serve. Others believe that officials should base their decisions on their own judgment.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: Any piece of information referred to as a fact should be mistrusted, since it may well be proven false in the future.</p>
+<p>Reason: Much of the information that people assume is factual actually turns out to be inaccurate.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: Nations should suspend government funding for the arts when significant numbers of their citizens are hungry or unemployed.</p>
+<p>Reason: It is inappropriate&mdash;and, perhaps, even cruel&mdash;to use public resources to fund the arts when people's basic needs are not being met.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: Many problems of modern society cannot be solved by laws and the legal system.</p>
+<p>Reason: Laws cannot change what is in people's hearts or minds.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Educators should take students' interests into account when planning the content of the courses they teach.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The primary goal of technological advancement should be to increase people's efficiency so that they have more leisure time.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Educators should base their assessment of students' learning not on students' grasp of facts but on the ability to explain the ideas, trends, and concepts that those facts illustrate.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Unfortunately, in contemporary society, creating an appealing image has become more important than the reality or truth behind that image.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The effectiveness of a country's leaders is best measured by examining the well-being of that country's citizens.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>All parents should be required to volunteer time to their children's schools.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>A nation should require all of its students to study the same national curriculum until they enter college.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Colleges and universities should require their students to spend at least one semester studying in a foreign country.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Educational institutions should actively encourage their students to choose fields of study in which jobs are plentiful.</p>
+<div class="indented">
+<p>Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>People's behavior is largely determined by forces not of their own making.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Colleges and universities should require their students to spend at least one semester studying in a foreign country.</p>
+<div class="indented">
+<p>Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Although innovations such as video, computers, and the Internet seem to offer schools improved methods for instructing students, these technologies all too often distract from real learning.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Universities should require every student to take a variety of courses outside the student's field of study.</p>
+<div class="indented">
+<p>Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The best ideas arise from a passionate interest in commonplace things.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>To be an effective leader, a public official must maintain the highest ethical and moral standards.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: Imagination is a more valuable asset than experience.</p>
+<p>Reason: People who lack experience are free to imagine what is possible without the constraints of established habits and attitudes.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>In most professions and academic fields, imagination is more important than knowledge.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>To be an effective leader, a public official must maintain the highest ethical and moral standards.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Critical judgment of work in any given field has little value unless it comes from someone who is an expert in that field.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people believe that scientific discoveries have given us a much better understanding of the world around us. Others believe that science has revealed to us that the world is infinitely more complex than we ever realized.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Critical judgment of work in any given field has little value unless it comes from someone who is an expert in that field.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>In any profession&mdash;business, politics, education, government&mdash;those in power should step down after five years.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Requiring university students to take a variety of courses outside their major fields of study is the best way to ensure that students become truly educated.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: The surest indicator of a great nation is not the achievements of its rulers, artists, or scientists.</p>
+<p>Reason: The surest indicator of a great nation is actually the welfare of all its people.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Any leader who is quickly and easily influenced by shifts in popular opinion will accomplish little.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Government officials should rely on their own judgment rather than unquestioningly carry out the will of the people whom they serve.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>A nation should require all of its students to study the same national curriculum until they enter college.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>It is primarily in cities that a nation's cultural traditions are generated and preserved.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>We can learn much more from people whose views we share than from people whose views contradict our own.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>When old buildings stand on ground that modern planners feel could be better used for modern purposes, modern development should be given precedence over the preservation of historic buildings.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: The surest indicator of a great nation must be the achievements of its rulers, artists, or scientists.</p>
+<p>Reason: Great achievements by a nation's rulers, artists, or scientists will ensure a good life for the majority of that nation's people.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people claim that you can tell whether a nation is great by looking at the achievements of its rulers, artists, or scientists. Others argue that the surest indicator of a great nation is, in fact, the general welfare of all its people.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The best way to understand the character of a society is to examine the character of the men and women that the society chooses as its heroes or its role models.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The best way for a society to prepare its young people for leadership in government, industry, or other fields is by instilling in them a sense of cooperation, not competition.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>All college and university students would benefit from spending at least one semester studying in a foreign country.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people claim that a nation's government should preserve its wilderness areas in their natural state. Others argue that these areas should be developed for potential economic gain.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>In most professions and academic fields, imagination is more important than knowledge.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The surest indicator of a great nation is not the achievements of its rulers, artists, or scientists, but the general well-being of all its people.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people argue that successful leaders in government, industry, or other fields must be highly competitive. Other people claim that in order to be successful, a leader must be willing and able to cooperate with others.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>College students should base their choice of a field of study on the availability of jobs in that field.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people believe that corporations have a responsibility to promote the well-being of the societies and environments in which they operate. Others believe that the only responsibility of corporations, provided they operate within the law, is to make as much money as possible.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: Researchers should not limit their investigations to only those areas in which they expect to discover something that has an immediate, practical application.</p>
+<p>Reason: It is impossible to predict the outcome of a line of research with any certainty.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people believe that our ever-increasing use of technology significantly reduces our opportunities for human interaction. Other people believe that technology provides us with new and better ways to communicate and connect with one another.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: Knowing about the past cannot help people to make important decisions today.</p>
+<p>Reason: The world today is significantly more complex than it was even in the relatively recent past.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: Knowing about the past cannot help people to make important decisions today.</p>
+<p>Reason: We are not able to make connections between current events and past events until we have some distance from both.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Educational institutions should actively encourage their students to choose fields of study that will prepare them for lucrative careers.</p>
+<div class="indented">
+<p>Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Educational institutions should actively encourage their students to choose fields of study in which jobs are plentiful.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Educational institutions have a responsibility to dissuade students from pursuing fields of study in which they are unlikely to succeed.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people believe that competition for high grades motivates students to excel in the classroom. Others believe that such competition seriously limits the quality of real learning.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: Major policy decisions should always be left to politicians and other government experts.</p>
+<p>Reason: Politicians and other government experts are more informed and thus have better judgment and perspective than do members of the general public.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people believe that universities should require every student to take a variety of courses outside the student's field of study. Others believe that universities should not force students to take any courses other than those that will help prepare them for jobs in their chosen fields.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>It is more harmful to compromise one's own beliefs than to adhere to them.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Claim: Colleges and universities should specify all required courses and eliminate elective courses in order to provide clear guidance for students.</p>
+<p>Reason: College students&mdash;like people in general&mdash;prefer to follow directions rather than make their own decisions.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>No field of study can advance significantly unless it incorporates knowledge and experience from outside that field.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>True success can be measured primarily in terms of the goals one sets for oneself.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The general welfare of a nation's people is a better indication of that nation's greatness than are the achievements of its rulers, artists, or scientists.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The best test of an argument is the argument's ability to convince someone with an opposing viewpoint.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The effectiveness of a country's leaders is best measured by examining the well-being of that country's citizens.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Nations should pass laws to preserve any remaining wilderness areas in their natural state.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>In any field&mdash;business, politics, education, government&mdash;those in power should be required to step down after five years.</p>
+<div class="indented">
+<p>Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people believe that corporations have a responsibility to promote the well-being of the societies and environments in which they operate. Others believe that the only responsibility of corporations, provided they operate within the law, is to make as much money as possible.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>Some people claim that the goal of politics should be the pursuit of an ideal. Others argue that the goal should be finding common ground and reaching reasonable consensus.</p>
+<div class="indented">
+<p>Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+<div class="divider-50"><hr /></div>
+<p>The best way to solve environmental problems caused by consumer-generated waste is for towns and cities to impose strict limits on the amount of trash they will accept from each household.</p>
+<div class="indented">
+<p>Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+<div class="graydottedbar"></div>
+<h2>See also:</h2>
+<ul>
+<li><a href="/gre/revised_general/prepare/analytical_writing/argument/pool">Pool of Argument Topics</a></li>
+</ul><!--stopindex-->
+<div class="clearboth"> </div>
+
+
+
+
+
+					</div><!-- end contents left -->
+					
+					<div class="contents right">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+
+
+
+
+
+
+		
+
+
+
+<div class="corner-img"><div><img src="/rsc/img/brand/gre_revised_general_about.jpg" alt="" width="240" height="155" border="0" /></div></div>
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+
+
+
+
+
+
+		
+
+
+<div class="wrap-promos">
+<h2 class="hide">Promotional Links</h2>
+<div class="promo"><h3>Register for the GRE General Test</h3>
+<p><a class="btn" href="/gre/revised_general/register/your_ets_account/">Register Now &gt;</a></p> <div class="clear"></div> </div>
+<div class="promo"><h3><a href="/gre/revised_general/prepare/powerprep">NEW! <span class="text-italic">POWERPREP PLUS</span><span class="tm">&trade;</span> Online</a></h3>
+<p>Get never-before-offered official GRE practice tests, scores within minutes for all three measures and explanations for correct answers!</p> <div class="clear"></div> </div>
+<div class="promo"><h3><a href="/gre/revised_general/about/scoreselect">Send Only Your Best Scores.</a></h3>
+<p>Show schools only the scores you want them to see &mdash; only with the <span class="text-italic">ScoreSelect</span><sup class="reg">&reg;</sup> option.</p> <div class="clear"></div> </div>
+</div>
+
+
+
+
+					</div><!-- end contents right -->
+					
+					<div class="contents navigation">
+
+	
+
+
+
+
+
+
+
+
+<div id="wrap-triggers">
+	<div class="relative">
+		<div id="mm-trigger">
+			<a href="" class="trigger">
+				<span class="svg"><svg class="icon icon-bars"><use xlink:href="#icon-bars"></use></svg></span>
+			</a>
+		</div><!-- /mm-trigger -->
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+
+
+
+
+
+
+		
+
+
+<div class="auds" id="aud-trigger"><ul> <li class="current"><a class="current-aud">For Test Takers</a></li> <li><a href="/gre/institutions">For Institutions</a></li> </ul> </div>
+<!--end "auds"-->
+
+
+
+
+	
+
+
+
+
+
+
+
+
+</div>
+	</div>
+
+
+
+
+	
+
+
+
+
+
+
+
+
+<nav id="mm" role="navigation" aria-label="section navigation">
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+
+
+
+
+
+
+		
+
+
+
+	<h1 class="hide">Navigation for GRE Home</h1>
+<div class="panel brand-links">
+<div class="group"><a href="https://mygre.ets.org/greweb/login/login.jsp?WT.ac=grehome_greaccount_a_150213">My GRE Account</a></div>
+<div class="group"><a href="/gre">GRE Home</a></div>
+</div>
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+
+
+
+
+
+
+		
+
+
+<div class="panel organizer current"><h2><a href="/gre/revised_general/about"><span class="hide">Navigation for </span> General Test</a></h2><div class="wrap-groups"> <div class="group"> <h3> <a href="/gre/revised_general/about/">About the <span class="nowrap">Test<span class="icon">&#9660;</span></span></a></h3>				<ul>				<li class="has-sub"><a href="/gre/revised_general/about/content/">Test Content and <span class="nowrap">Structure<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/revised_general/about/content/computer/">Computer-delivered Test</a></li><li><a href="/gre/revised_general/about/content/paper/">Paper-delivered Test</a></li>				</ul>				</li><li><a href="/gre/revised_general/about/scoreselect/">ScoreSelect Option</a></li><li class="has-sub"><a href="/gre/revised_general/about/mba/">GRE for Business <span class="nowrap">School<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/revised_general/about/mba/programs/">MBA Programs</a></li>				</ul>				</li><li><a href="/gre/revised_general/about/fairness/">Test Fairness and Validity</a></li><li class="has-sub"><a href="/gre/revised_general/about/fees/"><span class="nowrap">Fees<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/revised_general/about/fees/payment/">Accepted Forms of Payment</a></li><li><a href="/gre/revised_general/about/fees/policies/">Payment and Refund Policies</a></li><li><a href="/gre/revised_general/about/fees/reductions/">Fee Reduction Program</a></li>				</ul>				</li><li><a href="/gre/revised_general/about/bulletin/">Bulletin and Forms</a></li><li><a href="/gre/revised_general/about/tools/">Tools for Success</a></li>				</ul>				 </div>  <div class="group"> <h3> <a href="/gre/revised_general/register/">Registration, Test Centers and <span class="nowrap">Dates<span class="icon">&#9660;</span></span></a></h3>				<ul>				<li><a href="/gre/revised_general/register/checklist/">Registration Checklist</a></li><li class="has-sub"><a href="/gre/revised_general/register/your_ets_account/">Your ETS <span class="nowrap">Account<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/revised_general/register/your_ets_account/name_you_use/">The Name You Use When Registering</a></li>				</ul>				</li><li class="has-sub"><a href="/gre/revised_general/register/id/">ID <span class="nowrap">Requirements<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/revised_general/register/id/supplemental/">Supplemental Identification</a></li>				</ul>				</li><li><a href="/gre/revised_general/register/centers_dates/">Test Centers and Dates</a></li><li><a href="/gre/revised_general/register/computer/">Register for the Computer-delivered Test</a></li><li class="has-sub"><a href="/gre/revised_general/register/paper/">Register for the Paper-delivered <span class="nowrap">Test<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/revised_general/register/paper/arrangements/">Testing Arrangements</a></li>				</ul>				</li><li class="has-sub"><a href="/gre/revised_general/register/disabilities/">Disability <span class="nowrap">Accommodations<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/revised_general/register/disabilities/accommodations/">Available Accommodations</a></li>				</ul>				</li><li class="has-sub"><a href="/gre/revised_general/register/reschedule/">Reschedule/Cancel <span class="nowrap">Registration<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/revised_general/register/reschedule/computer/">Computer-delivered Test</a></li><li><a href="/gre/revised_general/register/reschedule/paper/">Paper-delivered Test</a></li>				</ul>				</li>				</ul>				 </div> <div class="group current"><h3><a href="/gre/revised_general/prepare/">Prepare for the <span class="nowrap">Test<span class="icon">&#9660;</span></span></a></h3>				<ul>				<li class="has-sub"><a href="/gre/revised_general/prepare/analytical_writing/">Analytical <span class="nowrap">Writing<span class="icon">&#9660;</span></span></a>				<ul>				<li class="current"><a href="/gre/revised_general/prepare/analytical_writing/issue/">Analyze an Issue</a></li><li><a href="/gre/revised_general/prepare/analytical_writing/argument/">Analyze an Argument</a></li><li><a href="/gre/revised_general/prepare/analytical_writing/score_level_descriptions/">Score Level Descriptions</a></li>				</ul>				</li><li class="has-sub"><a href="/gre/revised_general/prepare/verbal_reasoning/">Verbal <span class="nowrap">Reasoning<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/revised_general/prepare/verbal_reasoning/reading_comprehension/">Reading Comprehension</a></li><li><a href="/gre/revised_general/prepare/verbal_reasoning/text_completion/">Text Completion</a></li><li><a href="/gre/revised_general/prepare/verbal_reasoning/sentence_equivalence/">Sentence Equivalence</a></li>				</ul>				</li><li class="has-sub"><a href="/gre/revised_general/prepare/quantitative_reasoning/">Quantitative <span class="nowrap">Reasoning<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/revised_general/prepare/quantitative_reasoning/comparison/">Quantitative Comparison</a></li><li><a href="/gre/revised_general/prepare/quantitative_reasoning/multiple_choice_one/">Multiple-choice – Select One</a></li><li><a href="/gre/revised_general/prepare/quantitative_reasoning/multiple_choice_more/">Multiple-choice – Select One or More</a></li><li><a href="/gre/revised_general/prepare/quantitative_reasoning/numeric_entry/">Numeric Entry</a></li><li><a href="/gre/revised_general/prepare/quantitative_reasoning/data_interpretation/">Data Interpretation Sets</a></li><li><a href="/gre/revised_general/prepare/quantitative_reasoning/problem_solving/">Problem-solving Steps</a></li><li><a href="/gre/revised_general/prepare/quantitative_reasoning/calculator/">Using the Calculator</a></li>				</ul>				</li><li><a href="/gre/revised_general/prepare/powerprep/">POWERPREP Practice Tests</a></li><li><a href="/gre/revised_general/prepare/disabilities/">Materials in Accessible Formats</a></li><li class="has-sub"><a href="/gre/revised_general/prepare/tips/">Strategies and <span class="nowrap">Tips<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/revised_general/prepare/tips/pbt/">Strategies and Tips for the Paper-delivered Test</a></li>				</ul>				</li>				</ul>				 </div>  <div class="group"> <h3> <a href="/gre/revised_general/test_day/">On Test <span class="nowrap">Day<span class="icon">&#9660;</span></span></a></h3>				<ul>				<li><a href="/gre/revised_general/test_day/bring/">What to Bring</a></li><li><a href="/gre/revised_general/test_day/expect/">What to Expect</a></li><li><a href="/gre/revised_general/test_day/policies/">Policies</a></li>				</ul>				 </div>  <div class="group"> <h3> <a href="/gre/revised_general/scores/"><span class="nowrap">Scores<span class="icon">&#9660;</span></span></a></h3>				<ul>				<li><a href="/gre/revised_general/scores/get/">Getting Your Scores</a></li><li class="has-sub"><a href="/gre/revised_general/scores/send/">Sending Your <span class="nowrap">Scores<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/revised_general/scores/send/asr/">Additional Score Reports</a></li>				</ul>				</li><li><a href="/gre/revised_general/scores/how/">How the Test is Scored</a></li><li><a href="/gre/revised_general/scores/understand/">Understanding Your Scores</a></li><li><a href="/gre/revised_general/scores/services/">Scoring Services</a></li><li><a href="/gre/revised_general/scores/policies/">Policies</a></li>				</ul>				 </div>  <div class="group"> <h3> <a href="/gre/revised_general/faq/">Frequently Asked Questions</a></h3> </div> </div></div><div class="panel organizer"><h2><a href="/gre/subject/about"><span class="hide">Navigation for </span> Subject Tests</a></h2><div class="wrap-groups"> <div class="group"> <h3> <a href="/gre/subject/about/">About the <span class="nowrap">Tests<span class="icon">&#9660;</span></span></a></h3>				<ul>				<li><a href="/gre/subject/about/content/">Test Content and Structure </a></li><li><a href="/gre/subject/about/scoreselect/">ScoreSelect Option</a></li><li><a href="/gre/subject/about/fairness/">Test Fairness and Validity</a></li><li class="has-sub"><a href="/gre/subject/about/fees/"><span class="nowrap">Fees<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/subject/about/fees/payment/">Accepted Forms of Payment</a></li><li><a href="/gre/subject/about/fees/refund/">Payment and Refund Policies</a></li><li><a href="/gre/subject/about/fees/reduction/">Fee Reduction Program</a></li>				</ul>				</li><li><a href="/gre/subject/about/bulletin/">Bulletin and Forms </a></li><li><a href="/gre/subject/about/tools/">Tools for Success</a></li>				</ul>				 </div>  <div class="group"> <h3> <a href="/gre/subject/register/">Registration, Test Centers and <span class="nowrap">Dates<span class="icon">&#9660;</span></span></a></h3>				<ul>				<li><a href="/gre/subject/register/checklist/">Registration Checklist</a></li><li class="has-sub"><a href="/gre/subject/register/your_ets_account/">Your ETS <span class="nowrap">Account<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/subject/register/your_ets_account/name_you_use/">The Name You Use When Registering</a></li>				</ul>				</li><li class="has-sub"><a href="/gre/subject/register/id/">ID <span class="nowrap">Requirements<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/subject/register/id/supplemental/">Supplemental Identification</a></li>				</ul>				</li><li><a href="/gre/subject/register/centers_dates/">Test Centers and Dates</a></li><li class="has-sub"><a href="/gre/subject/register/how/">Register for a Subject <span class="nowrap">Test<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/subject/register/how/arrangements/">Testing Arrangements</a></li>				</ul>				</li><li class="has-sub"><a href="/gre/subject/register/disabilities/">Disability <span class="nowrap">Accommodations<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/subject/register/disabilities/accommodations/">Available Accommodations</a></li>				</ul>				</li><li><a href="/gre/subject/register/reschedule/">Reschedule/Cancel Registration</a></li>				</ul>				 </div>  <div class="group"> <h3> <a href="/gre/subject/prepare/">Prepare for a <span class="nowrap">Test<span class="icon">&#9660;</span></span></a></h3>				<ul>				<li><a href="/gre/subject/prepare/strategy/">Strategies and Tips</a></li>				</ul>				 </div>  <div class="group"> <h3> <a href="/gre/subject/test_day/">On Test <span class="nowrap">Day<span class="icon">&#9660;</span></span></a></h3>				<ul>				<li><a href="/gre/subject/test_day/bring/">What to Bring</a></li><li><a href="/gre/subject/test_day/expect/">What to Expect</a></li><li><a href="/gre/subject/test_day/policies/">Policies</a></li>				</ul>				 </div>  <div class="group"> <h3> <a href="/gre/subject/scores/"><span class="nowrap">Scores<span class="icon">&#9660;</span></span></a></h3>				<ul>				<li><a href="/gre/subject/scores/get/">Getting Your Scores</a></li><li class="has-sub"><a href="/gre/subject/scores/send/">Sending Your <span class="nowrap">Scores<span class="icon">&#9660;</span></span></a>				<ul>				<li><a href="/gre/subject/scores/send/asr/">Additional Score Reports </a></li>				</ul>				</li><li><a href="/gre/subject/scores/how/">How the Tests Are Scored </a></li><li><a href="/gre/subject/scores/understand/">Understanding Your Scores</a></li><li><a href="/gre/subject/scores/policies/">Policies </a></li>				</ul>				 </div>  <div class="group"> <h3> <a href="/gre/subject/faq/">Frequently Asked Questions</a></h3> </div> </div></div>
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+					</div><!-- end contents navigation -->
+					
+			<div class="clearboth"></div>
+		</div><!-- /main-contents --> <!-- tmplt ETSorg2015 - PT-13 - Document Details --><!-- end page content area -->
+
+				</div><!-- /main -->
+			</div><!-- /.wrap-outer -->
+				
+			<div class="wrap-outer">
+				<!-- begin footer area -->				
+				
+
+
+
+
+
+
+
+
+
+
+		<footer id="footer" role="contentinfo" aria-label="footer">				
+			<div class="wrap-flex">
+			            <!-- Bottom Nav Links -->
+
+
+
+
+
+
+
+		
+
+
+<div class="col">
+<p><span class="text-bold"><a href="/gre">GRE Home</a></span></p>
+<p><a href="/gre">For Test Takers</a></p>
+<p><a href="/gre/institutions">For Institutions</a></p>
+</div>
+<div class="col">
+<p><span class="text-bold">ETS</span></p>
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/about">About ETS</a></li>
+<li><a href="/research">Research</a></li>
+<li><a href="/careers">Careers</a></li>
+<li><a href="http://news.ets.org/">Newsroom</a></li>
+<li><a href="/conferences">Conferences</a></li>
+<li><a href="/disabilities">Disabilities</a></li>
+<li><a href="/store">ETS Store</a></li>
+<li><a href="/contact">Contact Us</a></li>
+</ul>
+</div>
+<div class="col">
+<p><span class="text-bold">Who We Serve</span></p>
+<ul>
+<li><a href="/k12">K&ndash;12 Student Assessment Programs</a></li>
+<li><a href="/educator_licensure">Educator Licensure Assessments</a></li>
+<li><a href="/highered">Higher Education Community</a></li>
+<li><a href="/global">Global Programs and Services</a></li>
+<li><a href="/ella">English Learners and Teachers</a></li>
+<li><a href="/workplace">Workplace Community</a></li>
+<li><a href="/services">View All</a></li>
+</ul>
+</div>
+<div class="col">
+<p><span class="text-bold">Tests and Products</span></p>
+<ul>
+<li><a href="/gre">GRE Tests</a></li>
+<li><a href="http://hiset.ets.org/">HiSET Exam</a></li>
+<li><a href="/praxis">The Praxis Series Tests</a></li>
+<li><a href="/toefl">TOEFL Test</a></li>
+<li><a href="/toeic">TOEIC Tests</a></li>
+<li><a href="/portfolio_products?view=educatorseries">ETS Educator Series</a></li>
+<li><a href="/portfolio_products?view=performance">ETS Performance Portfolio</a></li>
+<li><a href="/portfolio_products?view=skillbuilders">ETS SkillBuilders</a></li>
+<li><a href="/portfolio_products?view=techconnect">ETS Tech Connect</a></li>
+<li><a href="/tests_products/alpha">View All</a></li>
+</ul>
+</div>
+
+
+						
+			</div><!-- /.wrap-flex -->
+			
+			<div aria-hidden="true" id="oo-inline">
+				<p><a href="/contact" id="oo_lab_link"><img src="/rsc/opinionlab/v5/oo_icon.gif" alt="" width="9" height="9" /> Send Feedback</a></p>
+			</div>
+
+			<ul id="cya-links">
+				<li><a href="/legal">Legal</a></li>
+				<li><a href="/legal/privacy">Privacy and Security</a></li>
+				<li><a href="/legal/trademarks/owned">ETS Trademarks</a></li>
+				<li><a href="http://get.adobe.com/reader/">Get Adobe Reader (for PDFs)</a></li>
+			</ul>
+
+			<div id="ets-tagline-text">
+				<p>ETS &mdash; <span class="text-italic">Measuring the Power of Learning.</span>&reg;</p>
+			</div>
+
+			<div id="cya">
+					<p>Copyright <span aria-hidden="true">&copy;</span> 2017 by Educational Testing Service. <span class="nowrap">All rights reserved.</span><br />
+					   All trademarks are property of their respective owners.</p>
+				</div> <!-- end: cya -->
+				
+			<div id="ets-tagline">
+				<img aria-hidden="true" alt="" src="/rsc/img/ets-logo_50x35.png" width="50" height="35" />
+			</div>
+		</footer> <!-- end: footer --><!-- end footer area -->
+			</div>
+		
+
+	<script type="text/javascript" src="/rsc/js/jquery.min.js"></script>
+	<script type="text/javascript" src="/rsc/js/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/rsc/js/ets-base.js"></script>
+	<!-- Page Specific scripting -->
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+				
+	<script type="text/javascript" src="/Media/Global/script/dcs_tag.js"></script>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		$(document).ready(function(){
+			dcsVar();
+			dcsMeta();
+			dcsFunc("dcsAdv");
+			dcsTag();
+		});
+	/* ]]> */
+	</script>
+	<script>
+	/* <![CDATA[ */
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44416257-1', 'ets.org');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+	/* ]]> */
+	</script>
+	<script type="text/javascript">
+       /* <![CDATA[ */
+       (function() {
+              $("head").append("<link>");
+              css = $("head").children(":last");
+              css.attr({ rel: 'stylesheet', type: 'text/css', href: '/rsc/opinionlab/v5/oo_style.css' });
+       })();
+       /* ]]> */
+	</script>
+	<script type="text/javascript" src="/rsc/opinionlab/v5/oo_engine.min.js"></script>
+	<script type="text/javascript" src="/rsc/opinionlab/v5/oo_conf_tab.js"></script>
+<!--startindex-->
+</body>
+</html>
+
+
+
+
+
+<!--220-->
+
