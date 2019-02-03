@@ -30,15 +30,14 @@ post = post[4:164]
 
 # category: topics
 dic = {}
-#nsoup = bs4.BeautifulSoup("<div><p>Fuck</p></div>", "html-parser")
-#cat = nsoup.select('p')
-#print(post)
-
+#subtopics=[]
 index = 0
 count_cat={}
 #count_cat['Topic']=categories
 for line in post:
-    
+    #if ')' in line:
+        #subtopics.append(line)
+        #continue
     try:
         if line == categories[index] :
             current = index
@@ -59,6 +58,7 @@ for line in post:
         cat_array.append(1)
         count_cat[line]=cat_array
         continue
+    
     count_cat[line]=cat_array
     
 #categories.insert(0,'Topic')    

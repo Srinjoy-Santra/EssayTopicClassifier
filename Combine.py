@@ -29,12 +29,11 @@ new_categories = [categories2[0],categories2[2],categories2[8],
 category_mapping[categories1[1]]=new_categories
 
 #Cities
-new_categories = []
 new_categories = [categories2[2],categories2[3]]
 category_mapping[categories1[2]]=new_categories
 
 #Arts
-new_categories = [categories2[3]]
+new_categories = [categories2[11],categories2[9]]
 category_mapping[categories1[3]]=new_categories
 
 #Goverenmnt and Power       
@@ -63,12 +62,13 @@ df=pd.DataFrame(columns=categories)
 for topic in common:
     #the_row = dataset2.loc[dataset2['Topics'] == topic]
     temp_row=[topic,0,0,0,0,0,0,0]
-    for key in list(category_mapping):
+    for key in list(category_mapping):      
         the_state = 0
         index = 1
         for cat in category_mapping[key]:
             the_state = list(dataset2.loc[dataset2['Topics'] == topic][cat])[0]
-            temp_row[index]|=the_state
+            temp_row[index]=temp_row[index] or the_state
+            #print(temp_row[index])
             index=index+1
         
             
@@ -85,10 +85,10 @@ df1 = pd.DataFrame(columns=categories)
 
 df1 = pd.concat([pd.DataFrame([[topic,0,0,0,0,0,0,0]],columns=categories) for topic in uncommon],ignore_index=True)
 
-df = pd.concat([df,df1],ignore_index=True)
+# df = pd.concat([df,df1],ignore_index=True)
 
 df.to_csv('training_set.csv', sep=',',columns=categories)
-#df.to_csv('preprocessedf.csv', sep=',',columns=categories)
+df1.to_csv('test_set.csv', sep=',',columns=categories)
 
 
 
